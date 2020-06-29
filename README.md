@@ -37,9 +37,9 @@ docker build -t boxing-odds .
 ```bash
 docker run -p 80:3000 boxing-odds
 ```
-3.Navigate to locahost in a web browser
+3. Navigate to locahost in a web browser
 
-The docker project is available on a private repository on dockerhub. It can also be pulled from the repository using the following command:
+The docker project is available on my private repository on dockerhub. It can be pulled from that repository using the following command:
 ```bash
 docker pull yigeronni/boxing_odds:boxing-odds
 ```
