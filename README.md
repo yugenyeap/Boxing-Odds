@@ -44,7 +44,7 @@ The docker project is available on a private repository on dockerhub. It can als
 docker pull yigeronni/boxing_odds:boxing-odds
 ```
 
-# April 2020 Update:
+# Screenshots of Usage:
 Unfortunately due to COVID-19 shutting down most sporting events around the world, there are no major upcoming boxing matches (as of April 2020). Therefore the page will display nothing as there are no boxing bouts returned when querying the API. I have attached screenshots and explanations below of the working web pages below dated from September/October of 2019
 
 Upon starting the application, it will present a list of tables containing the major upcoming professional boxing matches along with the event date and betting odds from particular bookmakers. Users are able to click on a button to load statistics for each fighter on a separate page.
