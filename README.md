@@ -53,7 +53,7 @@ Upon starting the application, it will present a list of tables containing the m
 
 A typical table would display the fighters, the fight date, betting odds from particular bookmakers and buttons that will redirect the user to a separate page:
 
-<img src=boxing_odds_images/example_table.jpg width=500>
+<img src=boxing_odds_images/example_table.jpg width=700>
 
 Upon clicking on a button to see a particular boxer's information, the page would display the athelete's information.
 In the example below, we have chosen to look up more information on Errol Spence Jr
