@@ -4,7 +4,7 @@ const router = express.Router();
 
 //Boxrec login details
 BOXREC_USERNAME = 'gazzamayte';
-BOXREC_PASSWORD = 'k78j7ioluo';
+BOXREC_PASSWORD = 'dueb58nthw78,;;';
 var cookieJar;
 
 //Logs into boxrec site
