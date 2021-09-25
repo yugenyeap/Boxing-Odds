@@ -1,6 +1,11 @@
 # Boxing-Odds
 A NodeJS web application. A mashup of the BoxRec and Odds API
 
+# Important Notice
+This unfortunately no longer works as the OddsAPI site is no longer available. I have created a similar project using NFL odds here: https://github.com/yugenyeap-portfolio/NFL-odds
+
+# Overview
+
 This project is one of favourite node.js projects I have created at university. As I am a huge boxing fan I created a node application which queries a sports betting odds API and the BoxRec API (The official record keeper for every professional boxer's profile).
 
 The two API's that were used:
